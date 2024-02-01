@@ -9,3 +9,4 @@ I'm Ricardo Chavez, writer of code and maker of many things, but mostly software
 - You can reach me at:
   - 📧 ricardo.chavez.t@gmail.com
   - 👤 [my LinkedIn profile](https://www.linkedin.com/in/ricardo-chavez-b4092950/)
+- You can check my favorite repos pinned right down here ⬇️
